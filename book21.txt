@@ -1,0 +1,1712 @@
+Institute: Malaviya National Institute of Technology Jaipur
+Academic Program: Architecture (5 Years, Bachelor of Architecture)
+Seat Type: OBC-NCL
+Opening Rank: 1021
+Closing Rank: 1021
+Gender: Gender-Neutral
+Quota: AI
+--------------------------------------------------
+Institute: Maulana Azad National Institute of Technology Bhopal
+Academic Program: Architecture (5 Years, Bachelor of Architecture)
+Seat Type: OBC-NCL
+Opening Rank: 1189
+Closing Rank: 1574
+Gender: Gender-Neutral
+Quota: AI
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Architecture (5 Years, Bachelor of Architecture)
+Seat Type: OBC-NCL
+Opening Rank: 1666
+Closing Rank: 1679
+Gender: Gender-Neutral
+Quota: AI
+--------------------------------------------------
+Institute: Malaviya National Institute of Technology Jaipur
+Academic Program: Architecture (5 Years, Bachelor of Architecture)
+Seat Type: OBC-NCL
+Opening Rank: 1616
+Closing Rank: 1779
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Architecture (5 Years, Bachelor of Architecture)
+Seat Type: OBC-NCL
+Opening Rank: 2005
+Closing Rank: 2005
+Gender: Gender-Neutral
+Quota: AI
+--------------------------------------------------
+Institute: Maulana Azad National Institute of Technology Bhopal
+Academic Program: Architecture (5 Years, Bachelor of Architecture)
+Seat Type: OBC-NCL
+Opening Rank: 1803
+Closing Rank: 2418
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Architecture (5 Years, Bachelor of Architecture)
+Seat Type: OBC-NCL
+Opening Rank: 2267
+Closing Rank: 2474
+Gender: Gender-Neutral
+Quota: AI
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Architecture (5 Years, Bachelor of Architecture)
+Seat Type: OBC-NCL
+Opening Rank: 2419
+Closing Rank: 2841
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Architecture (5 Years, Bachelor of Architecture)
+Seat Type: OBC-NCL
+Opening Rank: 2715
+Closing Rank: 3786
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Architecture (5 Years, Bachelor of Architecture)
+Seat Type: OBC-NCL
+Opening Rank: 2777
+Closing Rank: 3788
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Calicut
+Academic Program: Computer Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 8870
+Closing Rank: 8870
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Motilal Nehru National Institute of Technology Allahabad
+Academic Program: Computer Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 9033
+Closing Rank: 9033
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Malaviya National Institute of Technology Jaipur
+Academic Program: Computer Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 10219
+Closing Rank: 10377
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Karnataka, Surathkal
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 10439
+Closing Rank: 10439
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Malaviya National Institute of Technology Jaipur
+Academic Program: Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 10443
+Closing Rank: 10443
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Karnataka, Surathkal
+Academic Program: Electrical and Electronics Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 13657
+Closing Rank: 13657
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Maulana Azad National Institute of Technology Bhopal
+Academic Program: Planning (4 Years, Bachelor of Planning)
+Seat Type: OBC-NCL
+Opening Rank: 4512
+Closing Rank: 15017
+Gender: Gender-Neutral
+Quota: AI
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Computer Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 15090
+Closing Rank: 15190
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Motilal Nehru National Institute of Technology Allahabad
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 15223
+Closing Rank: 15223
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Calicut
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 15343
+Closing Rank: 15343
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Malaviya National Institute of Technology Jaipur
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 16289
+Closing Rank: 16289
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Delhi
+Academic Program: Computer Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 16483
+Closing Rank: 16483
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Computer Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 16455
+Closing Rank: 16903
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Motilal Nehru National Institute of Technology Allahabad
+Academic Program: Electrical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 16964
+Closing Rank: 16964
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Architecture (5 Years, Bachelor of Architecture)
+Seat Type: OBC-NCL
+Opening Rank: 13400
+Closing Rank: 18690
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Delhi
+Academic Program: Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 19474
+Closing Rank: 19474
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Motilal Nehru National Institute of Technology Allahabad
+Academic Program: Electrical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 21080
+Closing Rank: 21080
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Computer Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 21067
+Closing Rank: 21288
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Information Technology (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 20757
+Closing Rank: 21357
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Data Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 21614
+Closing Rank: 21614
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Delhi
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 21786
+Closing Rank: 21786
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Computer Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 21995
+Closing Rank: 21995
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Computer Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 22145
+Closing Rank: 22145
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Karnataka, Surathkal
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 21749
+Closing Rank: 22205
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Calicut
+Academic Program: Electrical and Electronics Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 22302
+Closing Rank: 22793
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 22860
+Closing Rank: 22860
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Maulana Azad National Institute of Technology Bhopal
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 23492
+Closing Rank: 23492
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Information Technology (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 22671
+Closing Rank: 23645
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Malaviya National Institute of Technology Jaipur
+Academic Program: Electrical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 23206
+Closing Rank: 23928
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Goa
+Academic Program: Computer Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 24236
+Closing Rank: 24236
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: Maulana Azad National Institute of Technology Bhopal
+Academic Program: Mathematics and Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 24996
+Closing Rank: 24996
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Electronics and VLSI Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 24152
+Closing Rank: 25065
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 26691
+Closing Rank: 26691
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Calicut
+Academic Program: Electrical and Electronics Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 27053
+Closing Rank: 27063
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 28029
+Closing Rank: 28415
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 27057
+Closing Rank: 28622
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Motilal Nehru National Institute of Technology Allahabad
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 29464
+Closing Rank: 29464
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 28783
+Closing Rank: 29687
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Delhi
+Academic Program: Electrical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 29852
+Closing Rank: 29852
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Meghalaya
+Academic Program: Computer Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 29875
+Closing Rank: 29875
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Motilal Nehru National Institute of Technology Allahabad
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 28428
+Closing Rank: 29926
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Electrical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 29919
+Closing Rank: 29948
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Malaviya National Institute of Technology Jaipur
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 30471
+Closing Rank: 30485
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Agartala
+Academic Program: Computer Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 30749
+Closing Rank: 30939
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Maulana Azad National Institute of Technology Bhopal
+Academic Program: Electrical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 30558
+Closing Rank: 31178
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Electrical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 31562
+Closing Rank: 31562
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Motilal Nehru National Institute of Technology Allahabad
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 32035
+Closing Rank: 32461
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Electronics and Communication Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 32597
+Closing Rank: 32597
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Calicut
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 33089
+Closing Rank: 33534
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Motilal Nehru National Institute of Technology Allahabad
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 33820
+Closing Rank: 33820
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Calicut
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 33203
+Closing Rank: 33918
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Karnataka, Surathkal
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 34255
+Closing Rank: 34404
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Malaviya National Institute of Technology Jaipur
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 34487
+Closing Rank: 34487
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Puducherry
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 34684
+Closing Rank: 34684
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Electrical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 34846
+Closing Rank: 34846
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Electrical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 36084
+Closing Rank: 36084
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Electrical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 34351
+Closing Rank: 37120
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 37322
+Closing Rank: 37322
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Agartala
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 37382
+Closing Rank: 37473
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Electrical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 34829
+Closing Rank: 37558
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Goa
+Academic Program: Electrical and Electronics Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 37253
+Closing Rank: 37831
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Motilal Nehru National Institute of Technology Allahabad
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 37282
+Closing Rank: 38181
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Malaviya National Institute of Technology Jaipur
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 38468
+Closing Rank: 38468
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Computer Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 37546
+Closing Rank: 38508
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Calicut
+Academic Program: Engineering Physics (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 37452
+Closing Rank: 38899
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Delhi
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 39352
+Closing Rank: 39352
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Karnataka, Surathkal
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 40276
+Closing Rank: 40433
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 38282
+Closing Rank: 41497
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Malaviya National Institute of Technology Jaipur
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 39862
+Closing Rank: 41980
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Meghalaya
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 41707
+Closing Rank: 42298
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Motilal Nehru National Institute of Technology Allahabad
+Academic Program: Production and Industrial Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 42317
+Closing Rank: 42317
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: Motilal Nehru National Institute of Technology Allahabad
+Academic Program: Bio Technology (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 43681
+Closing Rank: 43681
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Calicut
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 42293
+Closing Rank: 44121
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Calicut
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 43913
+Closing Rank: 44251
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Karnataka, Surathkal
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 44712
+Closing Rank: 44712
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 43899
+Closing Rank: 44914
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Karnataka, Surathkal
+Academic Program: Mining Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 44943
+Closing Rank: 44943
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Maulana Azad National Institute of Technology Bhopal
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 42442
+Closing Rank: 45158
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Instrumentation and Control Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 42704
+Closing Rank: 45747
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 45200
+Closing Rank: 46776
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Delhi
+Academic Program: Computer Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 46705
+Closing Rank: 47452
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Engineering Physics (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 46801
+Closing Rank: 47851
+Gender: Gender-Neutral
+Quota: AI
+--------------------------------------------------
+Institute: National Institute of Technology Delhi
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 41014
+Closing Rank: 48103
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Maulana Azad National Institute of Technology Bhopal
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 47799
+Closing Rank: 48424
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: Motilal Nehru National Institute of Technology Allahabad
+Academic Program: Bio Technology (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 46635
+Closing Rank: 48545
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Calicut
+Academic Program: Materials Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 49064
+Closing Rank: 49064
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Calicut
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 46552
+Closing Rank: 49717
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Puducherry
+Academic Program: Electrical and Electronics Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 48669
+Closing Rank: 49791
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Goa
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 49905
+Closing Rank: 49905
+Gender: Gender-Neutral
+Quota: AI
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 46445
+Closing Rank: 50521
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Calicut
+Academic Program: Production Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 48518
+Closing Rank: 50543
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 50878
+Closing Rank: 51073
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 50058
+Closing Rank: 51109
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Malaviya National Institute of Technology Jaipur
+Academic Program: Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 51308
+Closing Rank: 51308
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: Maulana Azad National Institute of Technology Bhopal
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 50086
+Closing Rank: 51634
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Goa
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 51560
+Closing Rank: 52044
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 50177
+Closing Rank: 52435
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Agartala
+Academic Program: Electrical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 50954
+Closing Rank: 52648
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Maulana Azad National Institute of Technology Bhopal
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 51399
+Closing Rank: 52799
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 53064
+Closing Rank: 53064
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 50881
+Closing Rank: 53140
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 51829
+Closing Rank: 53220
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Malaviya National Institute of Technology Jaipur
+Academic Program: Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 52583
+Closing Rank: 54449
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Calicut
+Academic Program: Bio Technology (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 54124
+Closing Rank: 54883
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Maulana Azad National Institute of Technology Bhopal
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 54551
+Closing Rank: 55038
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 53183
+Closing Rank: 55267
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Nagaland
+Academic Program: Computer Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 55483
+Closing Rank: 55653
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Agartala
+Academic Program: Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 56382
+Closing Rank: 56574
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 55870
+Closing Rank: 57421
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Calicut
+Academic Program: Production Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 57443
+Closing Rank: 57443
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Engineering Physics (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 56655
+Closing Rank: 59195
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 57549
+Closing Rank: 60393
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Delhi
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 54721
+Closing Rank: 60906
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Meghalaya
+Academic Program: Electrical and Electronics Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 61015
+Closing Rank: 61015
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Puducherry
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 55678
+Closing Rank: 61125
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Calicut
+Academic Program: Bio Technology (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 61220
+Closing Rank: 61849
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 56897
+Closing Rank: 61972
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 54527
+Closing Rank: 62260
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 58162
+Closing Rank: 63374
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Maulana Azad National Institute of Technology Bhopal
+Academic Program: Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 60802
+Closing Rank: 63407
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Industrial and Production Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 62182
+Closing Rank: 63442
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 63846
+Closing Rank: 63846
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Materials Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 64066
+Closing Rank: 64254
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Nagaland
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 63990
+Closing Rank: 64321
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 60897
+Closing Rank: 64390
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Agartala
+Academic Program: Mathematics & Computing (5 Years, Bachelor of Science and Master of Science (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 64442
+Closing Rank: 64442
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Agartala
+Academic Program: Computational Mathematics (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 64574
+Closing Rank: 64602
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 58949
+Closing Rank: 64626
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Calicut
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 62137
+Closing Rank: 64821
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 58577
+Closing Rank: 65500
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 60829
+Closing Rank: 65523
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 65774
+Closing Rank: 65774
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Electrical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 65875
+Closing Rank: 65875
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 66773
+Closing Rank: 66773
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 66866
+Closing Rank: 66866
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Goa
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 64581
+Closing Rank: 66925
+Gender: Gender-Neutral
+Quota: AI
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Bio Technology (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 64440
+Closing Rank: 67269
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Maulana Azad National Institute of Technology Bhopal
+Academic Program: Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 66089
+Closing Rank: 67770
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 67975
+Closing Rank: 67975
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Goa
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 67150
+Closing Rank: 68114
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Agartala
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 63129
+Closing Rank: 68177
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Bio Technology (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 66379
+Closing Rank: 68260
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Karnataka, Surathkal
+Academic Program: Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 67777
+Closing Rank: 68544
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Meghalaya
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 69971
+Closing Rank: 70182
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Karnataka, Surathkal
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 68749
+Closing Rank: 71067
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 66714
+Closing Rank: 71366
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Puducherry
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 69136
+Closing Rank: 71639
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 71775
+Closing Rank: 71775
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Agartala
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 68104
+Closing Rank: 74195
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Biotechnology (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 74292
+Closing Rank: 74292
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Mining Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 70692
+Closing Rank: 74382
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Bio Technology (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 71230
+Closing Rank: 74681
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Textile Technology (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 70623
+Closing Rank: 74704
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Agartala
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 71740
+Closing Rank: 74823
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Patna
+Academic Program: Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 75031
+Closing Rank: 75031
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Nagaland
+Academic Program: Electrical and Electronics Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 70781
+Closing Rank: 75342
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Agartala
+Academic Program: Engineering Physics (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 77883
+Closing Rank: 77980
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 78375
+Closing Rank: 78375
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Meghalaya
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 75638
+Closing Rank: 78564
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 80402
+Closing Rank: 80402
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Bio Medical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 75860
+Closing Rank: 80800
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Nagaland
+Academic Program: Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 79782
+Closing Rank: 80950
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Agartala
+Academic Program: Production Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 79519
+Closing Rank: 83594
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Agartala
+Academic Program: Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 81968
+Closing Rank: 83790
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 82562
+Closing Rank: 83821
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Karnataka, Surathkal
+Academic Program: Mining Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 72148
+Closing Rank: 84083
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 79780
+Closing Rank: 84333
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Nagaland
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 84442
+Closing Rank: 84566
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 85567
+Closing Rank: 85567
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Sikkim
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 85972
+Closing Rank: 86894
+Gender: Gender-Neutral
+Quota: AI
+--------------------------------------------------
+Institute: National Institute of Technology Delhi
+Academic Program: Electrical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 68836
+Closing Rank: 88471
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Sikkim
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 87530
+Closing Rank: 89189
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Chemistry (5 Years, Integrated Master of Science)
+Seat Type: OBC-NCL
+Opening Rank: 92787
+Closing Rank: 92787
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Nagaland
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 92629
+Closing Rank: 97994
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 92877
+Closing Rank: 98433
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Electrical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 99174
+Closing Rank: 99174
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 105814
+Closing Rank: 105814
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Mining Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 100265
+Closing Rank: 106888
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Agartala
+Academic Program: Physics (5 Years, Bachelor of Science and Master of Science (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 101348
+Closing Rank: 109261
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 97874
+Closing Rank: 110173
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Instrumentation and Control Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 118874
+Closing Rank: 118874
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Delhi
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 108646
+Closing Rank: 125370
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Delhi
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 126144
+Closing Rank: 126396
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Agartala
+Academic Program: Chemistry (5 Years, Bachelor of Science and Master of Science (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 114788
+Closing Rank: 127040
+Gender: Gender-Neutral
+Quota: OS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Bio Technology (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 122784
+Closing Rank: 127388
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Raipur
+Academic Program: Bio Medical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 134285
+Closing Rank: 137095
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Bio Technology (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 146106
+Closing Rank: 146106
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Puducherry
+Academic Program: Electronics and Communication Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 158214
+Closing Rank: 158214
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 164489
+Closing Rank: 164489
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 166052
+Closing Rank: 166052
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Mathematics and Computing (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 174952
+Closing Rank: 174952
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 185210
+Closing Rank: 185210
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Durgapur
+Academic Program: Chemistry (5 Years, Integrated Master of Science)
+Seat Type: OBC-NCL
+Opening Rank: 185859
+Closing Rank: 185859
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Electronics and Communication Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))
+Seat Type: OBC-NCL
+Opening Rank: 209183
+Closing Rank: 209183
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Electrical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 210767
+Closing Rank: 210767
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Industrial and Production Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 213186
+Closing Rank: 213186
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Puducherry
+Academic Program: Electrical and Electronics Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 210956
+Closing Rank: 219803
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 245232
+Closing Rank: 245232
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: Dr. B R Ambedkar National Institute of Technology, Jalandhar
+Academic Program: Textile Technology (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 269738
+Closing Rank: 269738
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 310577
+Closing Rank: 310577
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Puducherry
+Academic Program: Mechanical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 289854
+Closing Rank: 325785
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Chemical Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 329721
+Closing Rank: 329721
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Hamirpur
+Academic Program: Materials Science and Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 352118
+Closing Rank: 352118
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
+Institute: National Institute of Technology Puducherry
+Academic Program: Civil Engineering (4 Years, Bachelor of Technology)
+Seat Type: OBC-NCL
+Opening Rank: 429541
+Closing Rank: 478152
+Gender: Gender-Neutral
+Quota: HS
+--------------------------------------------------
