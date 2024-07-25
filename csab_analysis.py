@@ -34,8 +34,8 @@ def write_results_to_file(results, output_file):
             f.write("-" * 50 + "\n")
 
 if __name__ == "__main__":
-    input_file = "Book2.xlsx"  # Replace with your file path
-    output_file = "book22.txt"
+    input_file = "MMMMM.xlsx"  # Replace with your file path
+    output_file = "LALA.txt"
     
     results = analyze_csab_data(input_file)
     write_results_to_file(results, output_file)
